@@ -11,7 +11,4 @@ export default defineNuxtConfig({
   alias: {
     '@layer': layer
   },
-  devServer: {
-    port: 3333
-  },
 })
